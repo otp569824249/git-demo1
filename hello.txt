@@ -1,4 +1,4 @@
-Hello World! Hello OTP1 hot-fix
+Hello World! Hello OTP1
 Hello World! Hello OTP2
 Hello World! Hello OTP3
 Hello World! Hello OTP4
@@ -12,5 +12,5 @@ Hello World! Hello OTP11
 Hello World! Hello OTP12
 Hello World! Hello OTP13
 Hello World! Hello OTP14
-Hello World! Hello OTP15
+Hello World! Hello OTP15 master test
 Hello World! Hello OTP16
